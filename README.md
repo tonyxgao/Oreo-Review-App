@@ -23,5 +23,5 @@ I really enjoyed this project and felt that it gave me a pretty good insight on 
 I think for the time I alotted myself to actually learn and code today, I pretty much expected to be able to have a makeshift Gatsby application. For all intents and purposes, I feel like I accomplished that. My reach goal would've definitely been to add full CRUD functionality rather than having static data, but I personally prioritized learning how to manipulate the tools GatsbyJS provides and how I can possibly use it for future websites I make.
 
 ## dev.to 
-For a full write-up of my thought-process and workflow throughout this, feel free to checkout my blogpost on dev.to: [placeholder].
+A full write-up blog post for this project is still in the works! In the meantime, feel free to read my most recent [blog post](https://dev.to/tonyxgao/a-college-graduates-3-month-reflection-into-the-full-time-workforce-1l29).
 
