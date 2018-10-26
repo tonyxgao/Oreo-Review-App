@@ -1,11 +1,13 @@
 # Oreo-Review-App
 
 ## Preface
+![Gatsby](assets/gatsby.png)
+
 The following application was made as part of an assignment for the coding bootcamp I'm in. 
 
 The task was to learn one language, framework, or technology that was not taught in the class and implement it in a day. I chose Gatsby.js as it was something one of my instructors mentioned would make for a good tool for a side-project I was thinking of.
 
-![Gatsby](assets/gatsby.png)
+
 
 ## About this Project
 This application is meant to archive all the Oreos I've eaten and along with a rating and review for each flavor I've had. As of right now, the current data is a bit sparse and was just used as an MVP for my assignment. Here is a screenshot of what the final proof of concept looks like.
@@ -24,5 +26,5 @@ I really enjoyed this project and felt that it gave me a pretty good insight on 
 I think for the time I alotted myself to actually learn and code today, I pretty much expected to be able to have a makeshift Gatsby application. For all intents and purposes, I feel like I accomplished that. My reach goal would've definitely been to add full CRUD functionality rather than having static data, but I personally prioritized learning how to manipulate the tools GatsbyJS provides and how I can possibly use it for future websites I make.
 
 ## dev.to 
-A full write-up blog post for this project is still in the works! In the meantime, feel free to read my most recent [blog post](https://dev.to/tonyxgao/a-college-graduates-3-month-reflection-into-the-full-time-workforce-1l29).
+A full write-up blog post for this project is still in the works! In the meantime, feel free to read my most recent [blog post](https://dev.to/tonyxgao/a-college-graduates-3-month-reflection-into-the-full-time-workforce-1l29) about my thoughts of work and post-grad life.
 
