@@ -7,7 +7,9 @@ The following application was made as part of an assignment for the coding bootc
 
 The task was to learn one language, framework, or technology that was not taught in the class and implement it in a day. I chose Gatsby.js as it was something one of my instructors mentioned would make for a good tool for a side-project I was thinking of.
 
+For those unfamiliar with the webdev tool that is GatsbyJS, it is essentially a static-site generator based on React and powered with GraphQL. One of the things that seems to make GatsbyJS so great is that because it is built on GraphQL, it builds a data layer. Allowing us to pull data from just about anywhere pretty quickly. 
 
+It is a super developer-friendly tool and has some of the best documentation and tutorials I've found when learning about a new technology.
 
 ## About this Project
 This application is meant to archive all the Oreos I've eaten and along with a rating and review for each flavor I've had. As of right now, the current data is a bit sparse and was just used as an MVP for my assignment. Here is a screenshot of what the final proof of concept looks like.
