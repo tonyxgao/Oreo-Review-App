@@ -3,6 +3,7 @@ import styles from './index-css-modules.module.css'
 import Container from '../components/container'
 import Layout from '../components/layout'
 
+// created Oreo object
 const Oreo = props => (
   <div className={styles.oreo}>
     <img src={props.avatar} className={styles.avatar} alt="" />
@@ -13,7 +14,7 @@ const Oreo = props => (
     </div>
   </div>
 )
-
+// created the container component to wrap all the Oreo objects with static data
 const IndexPage = () => (
   <Layout>
     <Container>

@@ -6,7 +6,7 @@ const ListLink = props => (
     <Link to={props.to}>{props.children}</Link>
   </li>
 )
-
+//added a functioning navbar onto the header
 const Header = ({ siteTitle }) => (
   <div
     style={{
@@ -30,7 +30,7 @@ const Header = ({ siteTitle }) => (
           }}
         >
           {siteTitle}
-
+          
           <ul style={{ listStyle: `none`, float: `right` }}>
             <ListLink to="/">Home</ListLink>
             <ListLink to="/about/">About</ListLink>
