@@ -5,7 +5,7 @@
 
 The following application was made as part of an assignment for the coding bootcamp I'm in. 
 
-The task was to learn one language, framework, or technology that was not taught in the class and implement it in a day. I chose Gatsby.js as it was something one of my instructors mentioned would make for a good tool for a side-project I was thinking of.
+The task was to learn one language, framework, or technology that was not taught in the class and implement it in a day. I chose [GatsbyJS](https://www.gatsbyjs.org) as it was something one of my instructors mentioned would make for a good tool for a side-project I was thinking of.
 
 For those unfamiliar with the webdev tool that is GatsbyJS, it is essentially a static-site generator based on React and powered with GraphQL. One of the things that seems to make GatsbyJS so great is that because it is built on GraphQL, it builds a data layer. Allowing us to pull data from just about anywhere pretty quickly. 
 
