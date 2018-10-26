@@ -4,9 +4,12 @@
 The following application was made as part of an assignment for the coding bootcamp I'm in. 
 
 The task was to learn one language, framework, or technology that was not taught in the class and implement it in a day. I chose Gatsby.js as it was something one of my instructors mentioned would make for a good tool for a side-project I was thinking of.
+![Gatsby](/oreo-review-app/public/icons/gatsby.png)
 
 ## About this Project
 This application is meant to archive all the Oreos I've eaten and along with a rating and review for each flavor I've had. As of right now, the current data is a bit sparse and was just used as an MVP for my assignment.
+
+![Oreo Review App](/oreo-review-app/public/icons/Oreo-Review-App.png)
 
 ## Future Work
 There are a ton of different things I'd like to do with this project. Here are some coming down the pipeline:
